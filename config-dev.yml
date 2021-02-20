@@ -1,2 +1,2 @@
 config:
-  intfo: this is dev environment 
+  intfo: "this is dev environment" 
